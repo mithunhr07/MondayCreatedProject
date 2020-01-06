@@ -1,0 +1,29 @@
+#homepage_img{
+    height:550px;
+    width: 1300px;
+}
+.text-block {
+    position: absolute;
+    bottom: 290px;
+    right: 650px;
+    /* background-color:lightgray; */
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  .img-fluid{
+      height: 192px;
+      width: 100px;
+  }
+  #inverted_comma_icon{
+      font-size: 50px;
+      margin-left: 750px;
+  }
+  .services{
+      margin-left: 380px;
+  }
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
